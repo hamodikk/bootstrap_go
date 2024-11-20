@@ -1,0 +1,18 @@
+2024/11/19 21:24:38 Generated population
+2024/11/19 21:24:38 Samples of size n = 25
+2024/11/19 21:24:38   SE Mean from Central Limit Theorem for n = 25: 0.06
+2024/11/19 21:24:38   SE Mean from Bootstrap Samples: 0.21
+2024/11/19 21:24:38   SE Median from Bootstrap Samples: 0.24
+2024/11/19 21:24:38 Samples of size n = 100
+2024/11/19 21:24:38   SE Mean from Central Limit Theorem for n = 100: 0.03
+2024/11/19 21:24:38   SE Mean from Bootstrap Samples: 0.09
+2024/11/19 21:24:38   SE Median from Bootstrap Samples: 0.10
+2024/11/19 21:24:38 Samples of size n = 225
+2024/11/19 21:24:38   SE Mean from Central Limit Theorem for n = 225: 0.02
+2024/11/19 21:24:38   SE Mean from Bootstrap Samples: 0.07
+2024/11/19 21:24:38   SE Median from Bootstrap Samples: 0.08
+2024/11/19 21:24:38 Samples of size n = 400
+2024/11/19 21:24:38   SE Mean from Central Limit Theorem for n = 400: 0.02
+2024/11/19 21:24:38   SE Mean from Bootstrap Samples: 0.04
+2024/11/19 21:24:38   SE Median from Bootstrap Samples: 0.05
+2024/11/19 21:24:38 Memory used for population generation and bootstrapping: 144728 bytes
